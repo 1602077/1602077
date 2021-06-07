@@ -13,15 +13,16 @@
 
 ## I've just finished ...
 
-- Deeplearning.ai's 5 Course Deep Learning Specialisation
-            1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
+Deeplearning.ai's 5 Course Deep Learning Specialisation
+1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VBNGV9VC8UPS)
+3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/HRUSWDXAQGUQ)
+4. [Convulational Neural Networks](https://www.coursera.org/account/accomplishments/verify/3ZMCYG2GLVMR)
+5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/GA3GF2AMLUAK)
 
 
 ### Currently Reading... 
 Douglas R. Hofstadter - Gödel, Escher, Bach: an Eternal Golden Braid
-
-
-I am incredibly passionate about music and would like to gain experience in the application of strategic data science intiatives to the music industry. Music has had such a massive impact on my mental well being that I would love the opportunity to affect meaningful change through applying my skills as a data scientist
 
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/3-stats.svg)
