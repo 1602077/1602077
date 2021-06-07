@@ -23,8 +23,9 @@
 - University of Helsinki's Ethics of AI Online Course ([Certificate](https://certificates.mooc.fi/validate/0o3hjlcqker))
 
 <h2 align="center">Currently Reading</h2>
-- Douglas R. Hofstadter - Gödel, Escher, Bach: an Eternal Golden Braid
-- Bill Gates - How to Avoid a Climate Disaster
+
+- Douglas R. Hofstadter: Gödel, Escher, Bach: an Eternal Golden Braid
+- Bill Gates: How to Avoid a Climate Disaster
 
 <h2 align="center"> My stats</h2>
 
