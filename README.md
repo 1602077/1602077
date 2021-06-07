@@ -7,11 +7,11 @@ Hello, I'm Jack!
 - Recent Physics (MPhys) graduate from the University of Warwick - you can find my dissertation and it's supporting codes [here](https://github.com/1602077/MPHYS_BacterialChemotaxis "Bacterial Chemotaxis of Bacillus subtilis under Antibiotic Challenge"). 
 - Music lover and massive collector of vinyl - check out my [webscraper](https://github.com/1602077/vinyl_pricechecker), which I built using bs4 which automates the price check of my wishlist record's via bash.
 
-### What I'm Working on Now...
+## What I'm Working on Now...
 
 - [Stanford's CS231N - Convolution Neural Networks for Vision Recognition](https://cs231n.github.io) - Please find my assignment solutions [here](https://github.com/1602077/stanford_cs231n)! I am currently working on translating my Generative Adverisal Network (GAN) implimentation from PyTorch to Tensorflow.
 
-##### Currently Reading... 
+### Currently Reading... 
 Douglas R. Hofstadter - Gödel, Escher, Bach: an Eternal Golden Braid
 
 
