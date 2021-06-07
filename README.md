@@ -1,7 +1,8 @@
-<p align="center" 
+<h1 align="center" 
    Hello, I'm Jack!
-            </p>
-
+            </h1>
+==================
+            
 ## About Me
 
 - Big 4 management consultant: specialising in using data science to deliver actionable intelligence.
