@@ -7,9 +7,6 @@
 - Music lover and massive collector of vinyl - check out my [webscraper](https://github.com/1602077/vinyl_pricechecker), which I built using bs4 to automate price checking of modern records in my wishlist.
 
 
-Download my [cv](https://github.com/1602077/1602077/files/6611571/cv.pdf)
-
-
 <h2 align="center">What I'm working on now</h2>
 
 - [Stanford's CS231N - Convolution Neural Networks for Vision Recognition](https://cs231n.github.io) - my assignment solutions [here](https://github.com/1602077/stanford_cs231n)! I am currently working on translating my Generative Adverisal Network (GAN) implimentation from PyTorch to Tensorflow.
@@ -39,9 +36,5 @@ Download my [cv](https://github.com/1602077/1602077/files/6611571/cv.pdf)
 
 <h2 align="center"> CV</h2>
 
-<object data="https://github.com/1602077/1602077/files/6611571/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/1602077/1602077/files/6611571/cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/1602077/1602077/files/6611571/cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
  
