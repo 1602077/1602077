@@ -1,6 +1,4 @@
-<h1 align="center" 
-   Hello, I'm Jack!
-            </h1>
+<h1 align="center">Hello, I'm Jack!</h1>
 ==================
             
 ## About Me
