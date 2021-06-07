@@ -14,7 +14,7 @@
 <h2 align="center">I've just finished</h2>
 
 - Deeplearning.ai's 5 Course Deep Learning Specialisation
-..1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
+⋅⋅1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VBNGV9VC8UPS)
 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/HRUSWDXAQGUQ)
 4. [Convulational Neural Networks](https://www.coursera.org/account/accomplishments/verify/3ZMCYG2GLVMR)
