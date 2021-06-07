@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Jack!</h1>
             
-<h2 align="center>About Me</h2>
+<h2 align="center">About Me</h2>
 
 - Big 4 management consultant: specialising in using data science to deliver actionable intelligence.
 - Recent Physics (MPhys) graduate from the University of Warwick - you can find my dissertation and it's supporting codes [here](https://github.com/1602077/MPHYS_BacterialChemotaxis "Bacterial Chemotaxis of Bacillus subtilis under Antibiotic Challenge"). 
