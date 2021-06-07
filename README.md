@@ -13,14 +13,14 @@
 
 <h2 align="center">I've just finished</h2>
 
-Deeplearning.ai's 5 Course Deep Learning Specialisation
+- Deeplearning.ai's 5 Course Deep Learning Specialisation
 1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
 2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VBNGV9VC8UPS)
 3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/HRUSWDXAQGUQ)
 4. [Convulational Neural Networks](https://www.coursera.org/account/accomplishments/verify/3ZMCYG2GLVMR)
 5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/GA3GF2AMLUAK)
 
-University of Helsinki's Ethics of AI Online Course ([Certificate](https://certificates.mooc.fi/validate/0o3hjlcqker))
+- University of Helsinki's Ethics of AI Online Course ([Certificate](https://certificates.mooc.fi/validate/0o3hjlcqker))
 
 <h2 align="center">Currently Reading</h2>
 Douglas R. Hofstadter - Gödel, Escher, Bach: an Eternal Golden Braid
