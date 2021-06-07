@@ -9,12 +9,12 @@
 
 <h2 align="center">What I'm working on now</h2>
 
-- [Stanford's CS231N - Convolution Neural Networks for Vision Recognition](https://cs231n.github.io) - my assignment solutions [here](https://github.com/1602077/stanford_cs231n)! I am currently working on translating my Generative Adverisal Network (GAN) implimentation from PyTorch to Tensorflow.
+- [Stanford's CS231N - Convolution Neural Networks for Vision Recognition](https://cs231n.github.io) - my assignment solutions are [here](https://github.com/1602077/stanford_cs231n)! I am currently working on translating my Generative Adverisal Network (GAN) implimentation from PyTorch to Tensorflow.
 - Teaching myself Google Cloud Platform via qwiklabs - primarily focusing on using their Compute Engine, BigQuery and  AI Platform. My Google Public Profile is accesible [here](https://www.qwiklabs.com/public_profiles/56fce1d8-f4cf-4357-9a12-a28307707dd6).
 
 <h2 align="center">I've just finished</h2>
 
-- Deeplearning.ai's 5 Course Deep Learning Specialisation
+- Deeplearning.ai's 5 Course Deep Learning Specialisation (Certificates Linked)
   1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
   2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/VBNGV9VC8UPS)
   3. [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/verify/HRUSWDXAQGUQ)
@@ -36,5 +36,12 @@
 
 <h2 align="center"> CV</h2>
 
-Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
+Inline pdf viewer not working? Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
+<object data="https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf">
+      
+    </embed>
+</object>
+
+https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf
  
