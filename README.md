@@ -5,6 +5,8 @@
 - Big 4 management consultant: specialising in using data science to deliver actionable intelligence.
 - Recent Physics (MPhys) graduate from the University of Warwick - you can find my dissertation and it's supporting codes [here](https://github.com/1602077/MPHYS_BacterialChemotaxis "Bacterial Chemotaxis of Bacillus subtilis under Antibiotic Challenge"). 
 - Music lover and massive collector of vinyl - check out my [webscraper](https://github.com/1602077/vinyl_pricechecker), which I built using bs4 to automate price checking of modern records in my wishlist.
+- [cv](https://github.com/1602077/1602077/files/6611571/cv.pdf)
+
 
 <h2 align="center">What I'm working on now</h2>
 
