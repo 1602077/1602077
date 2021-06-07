@@ -36,10 +36,4 @@
 
 <h2 align="center"> CV</h2>
 
-Inline pdf viewer not working? Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
-<object data="https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf"></embed>
-</object>
-
-https://docs.google.com/viewer?url=https://github.com/1602077/1602077/files/6611571/cv.pdf
- 
+Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
