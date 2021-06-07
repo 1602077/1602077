@@ -14,7 +14,7 @@
 ## I've just finished ...
 
 - Deeplearning.ai's 5 Course Deep Learning Specialisation
-..1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
+            1. [Neural Networks & Deep Learning](https://www.coursera.org/account/accomplishments/verify/YNRFFFGCSZJF)
 
 
 ### Currently Reading... 
