@@ -1,6 +1,5 @@
 <p align="center" 
    Hello, I'm Jack!
-================
             </p>
 
 ## About Me
