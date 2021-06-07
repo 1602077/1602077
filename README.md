@@ -36,4 +36,12 @@ Download my [cv](https://github.com/1602077/1602077/files/6611571/cv.pdf)
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+
+<h2 align="center"> CV</h2>
+
+<object data="https://github.com/1602077/1602077/files/6611571/cv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/1602077/1602077/files/6611571/cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/1602077/1602077/files/6611571/cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
  
