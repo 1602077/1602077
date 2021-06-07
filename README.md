@@ -35,10 +35,6 @@
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
-<a href="https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-  <img align="center" src="https://raw.githubusercontent.com/1602077/1602077/master/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-</a>
-
 <h2 align="center"> CV</h2>
 
 Please download my CV to view it: [cv.pdf](https://github.com/1602077/1602077/files/6611571/cv.pdf)
