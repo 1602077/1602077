@@ -11,6 +11,7 @@
 
 - [Stanford's CS231N - Convolution Neural Networks for Vision Recognition](https://cs231n.github.io) - my assignment solutions are [here](https://github.com/1602077/stanford_cs231n)! I am currently working on translating my Generative Adverisal Network (GAN) implementation from PyTorch to Tensorflow.
 - Teaching myself Google Cloud Platform via qwiklabs - primarily focusing on using their Compute Engine, BigQuery and  AI Platform. My Google Public Profile is accessible [here](https://www.qwiklabs.com/public_profiles/56fce1d8-f4cf-4357-9a12-a28307707dd6).
+- Recontrustrucing my 'Apple Music Replay' statistics using BigQuery or a PostgresSQL server (pending Apple data request approval currently).
 
 <h2 align="center">I've just finished</h2>
 
