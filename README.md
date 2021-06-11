@@ -23,6 +23,7 @@
   5. [Sequence Models](https://www.coursera.org/account/accomplishments/verify/GA3GF2AMLUAK)
 
 - University of Helsinki's Ethics of AI Online Course ([Certificate](https://certificates.mooc.fi/validate/0o3hjlcqker))
+- Sentiment classifier using GCP to process google survey ouput - python script [available here](https://github.com/1602077/google_nlp).
 
 <h2 align="center">Currently Reading</h2>
 
